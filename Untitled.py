@@ -14,7 +14,7 @@ import streamlit as st
 
 
 #loading the saved model
-model = pickle.load(open('D:\\ml Project\\25 mar\\trained_model.sav','rb'))
+persistedModel = final_pipeline.load("s3://carparq/pick")
 
 
 # In[3]:
