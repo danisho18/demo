@@ -10,6 +10,7 @@ Date of Creation:06-04-2022
 
 
 1.Write a Python program to read N array elements and swap adjacent elements.
+xyz
 
 
 
